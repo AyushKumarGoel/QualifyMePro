@@ -18,3 +18,4 @@ datetime
 pdfminer3
 io
 yt_dlp
+pip --upgrade pip
