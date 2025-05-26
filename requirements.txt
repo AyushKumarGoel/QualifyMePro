@@ -1,4 +1,4 @@
-pdfminer3
+pdfminer.six
 pyresparser
 streamlit
 pandas
@@ -7,15 +7,6 @@ plotly
 pymysql
 streamlit-tags
 Pillow
-youtube-dl
 nltk
-pdfminer3
 spacy==3.6.1
-base64
-random
-time
-datetime
-pdfminer3
-io
-yt_dlp
-pip --upgrade pip
+yt-dlp
